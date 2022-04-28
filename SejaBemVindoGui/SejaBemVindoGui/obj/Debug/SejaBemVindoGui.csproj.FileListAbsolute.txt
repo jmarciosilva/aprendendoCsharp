@@ -1,0 +1,7 @@
+C:\Users\Marcio\source\repos\SejaBemVindoGui\SejaBemVindoGui\bin\Debug\SejaBemVindoGui.exe.config
+C:\Users\Marcio\source\repos\SejaBemVindoGui\SejaBemVindoGui\bin\Debug\SejaBemVindoGui.exe
+C:\Users\Marcio\source\repos\SejaBemVindoGui\SejaBemVindoGui\bin\Debug\SejaBemVindoGui.pdb
+C:\Users\Marcio\source\repos\SejaBemVindoGui\SejaBemVindoGui\obj\Debug\SejaBemVindoGui.csproj.AssemblyReference.cache
+C:\Users\Marcio\source\repos\SejaBemVindoGui\SejaBemVindoGui\obj\Debug\SejaBemVindoGui.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\source\repos\SejaBemVindoGui\SejaBemVindoGui\obj\Debug\SejaBemVindoGui.exe
+C:\Users\Marcio\source\repos\SejaBemVindoGui\SejaBemVindoGui\obj\Debug\SejaBemVindoGui.pdb
