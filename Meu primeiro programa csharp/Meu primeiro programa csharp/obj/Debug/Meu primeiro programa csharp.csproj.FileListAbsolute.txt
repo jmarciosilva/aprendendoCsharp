@@ -1,0 +1,7 @@
+C:\Users\Marcio\source\repos\Meu primeiro programa csharp\Meu primeiro programa csharp\bin\Debug\Meu primeiro programa csharp.exe.config
+C:\Users\Marcio\source\repos\Meu primeiro programa csharp\Meu primeiro programa csharp\bin\Debug\Meu primeiro programa csharp.exe
+C:\Users\Marcio\source\repos\Meu primeiro programa csharp\Meu primeiro programa csharp\bin\Debug\Meu primeiro programa csharp.pdb
+C:\Users\Marcio\source\repos\Meu primeiro programa csharp\Meu primeiro programa csharp\obj\Debug\Meu primeiro programa csharp.csproj.AssemblyReference.cache
+C:\Users\Marcio\source\repos\Meu primeiro programa csharp\Meu primeiro programa csharp\obj\Debug\Meu primeiro programa csharp.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\source\repos\Meu primeiro programa csharp\Meu primeiro programa csharp\obj\Debug\Meu primeiro programa csharp.exe
+C:\Users\Marcio\source\repos\Meu primeiro programa csharp\Meu primeiro programa csharp\obj\Debug\Meu primeiro programa csharp.pdb
