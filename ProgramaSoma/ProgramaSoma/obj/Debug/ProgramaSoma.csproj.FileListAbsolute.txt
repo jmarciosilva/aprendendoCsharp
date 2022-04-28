@@ -1,0 +1,7 @@
+C:\Users\Marcio\source\repos\ProgramaSoma\ProgramaSoma\bin\Debug\ProgramaSoma.exe.config
+C:\Users\Marcio\source\repos\ProgramaSoma\ProgramaSoma\bin\Debug\ProgramaSoma.exe
+C:\Users\Marcio\source\repos\ProgramaSoma\ProgramaSoma\bin\Debug\ProgramaSoma.pdb
+C:\Users\Marcio\source\repos\ProgramaSoma\ProgramaSoma\obj\Debug\ProgramaSoma.csproj.AssemblyReference.cache
+C:\Users\Marcio\source\repos\ProgramaSoma\ProgramaSoma\obj\Debug\ProgramaSoma.csproj.CoreCompileInputs.cache
+C:\Users\Marcio\source\repos\ProgramaSoma\ProgramaSoma\obj\Debug\ProgramaSoma.exe
+C:\Users\Marcio\source\repos\ProgramaSoma\ProgramaSoma\obj\Debug\ProgramaSoma.pdb
